@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kid1110.github.io/</loc>
-    <lastmod>2021-02-20T12:24:57+08:00</lastmod>
-  </url><url>
     <loc>https://kid1110.github.io/post/</loc>
     <lastmod>2021-02-20T12:24:57+08:00</lastmod>
   </url><url>
     <loc>https://kid1110.github.io/post/read/</loc>
+    <lastmod>2021-02-20T12:24:57+08:00</lastmod>
+  </url><url>
+    <loc>https://kid1110.github.io/</loc>
     <lastmod>2021-02-20T12:24:57+08:00</lastmod>
   </url><url>
     <loc>https://kid1110.github.io/categories/</loc>
