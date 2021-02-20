@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://kid1110.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Feb 2021 12:24:57 +0800</lastBuildDate><atom:link href="https://kid1110.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Read</title>
+      <link>https://kid1110.github.io/post/read/</link>
+      <pubDate>Sat, 20 Feb 2021 12:24:57 +0800</pubDate>
+      
+      <guid>https://kid1110.github.io/post/read/</guid>
+      <description>第一次搭建个人博客 观看的是哔哩哔哩的codesheep个人up主搭建而成</description>
+    </item>
+    
+  </channel>
+</rss>
