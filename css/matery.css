@@ -257,7 +257,7 @@ mark {
     position: fixed;
     bottom: 0;
     z-index: 300;
-    background: linear-gradient(to right, #000000 0%, #000000 100%);
+    background: linear-gradient(to right, #534d4d 0%, #534d4d 100%);
     opacity: 0.8;
 }
 
@@ -1896,7 +1896,7 @@ footer .copy-right {
 }
 
 .top-scroll .btn-floating {
-    background: linear-gradient(to bottom right, #ff5e3a 0%, #ff2a68 100%);
+    background: linear-gradient(to bottom right, #3f3938 0%, #3f3938 100%);
     width: 48px;
     height: 48px;
 }
