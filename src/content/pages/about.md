@@ -1,37 +1,45 @@
 ---
-title: "About"
-description: "A bit about me and this blog."
+title: "关于我"
+description: "我是 kid，一名开发者。这个博客记录我的开发学习过程，也会掉落电影、文学与游戏的内容。"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+<img
+  src="https://avatars.githubusercontent.com/u/62837753?v=4&size=400"
+  alt="kid 的头像"
+  width="400"
+  height="400"
+  class="mx-auto my-6 block size-32 rounded-full object-cover"
+/>
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+你好，我是 **kid**，一名开发者。
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+这个博客主要用来**记录我的开发学习过程**；当然，偶尔也会掉落一些电影、文学和游戏相关的内容。
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+## 技术栈
 
-## Features
+目前主要接触：
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+- Java
+- Go
+- JavaScript / TypeScript
+- C
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+同时也在学习：
 
-and so much more.
+- Rust
+- Flutter
+- Docker
+- Linux
 
-## Show your support
+总之就是「什么方面都学一点」的风格。
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+## 电影与文学
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+**电影**：除了恐怖片，其他类型基本都能接受。心中的 Top 1 是《时光恋旅人》（*About Time*）。
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+**文学**：最近在读川端康成的《古都》。
 
-Kyay zuu! 🙏🏼
+## 联系我
+
+- GitHub: [kid1110](https://github.com/kid1110)
+- 邮箱: [1050109853@qq.com](mailto:1050109853@qq.com)
